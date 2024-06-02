@@ -1,0 +1,116 @@
+Who Kidnapped Mother Goose?
+By Garry Francis
+For Z-code interpreters
+
+Solution by Garry Francis
+----------------------------------------
+This is a minimal solution. You'll need to EXAMINE lots of things for this solution to make sense. Also make sure you TALK TO any non-player characters that you come across and ASK <character> ABOUT anything that seems relevant or anything they mention that may be of interest.
+
+Some optional (but significant) commands are shown in parentheses. These may be omitted once you know what to do.
+
+(W) (you're missing something)
+(X CLOTHES) (you'd need to search them)
+SEARCH CLOTHES (you find a rat trap)
+GET TRAP
+OPEN CABINET (you find some mouldy cheese)
+GET CHEESE
+W (children are dancing around the fountain)
+(GET COINS) (you can't get to fountain while children are in the way)
+W
+(TALK TO BARTENDER) (he's more concerned about rats)
+(ASK BARTENDER ABOUT ANYTHING) (he's more concerned about rats)
+(ASK MARY ABOUT MOTHER GOOSE) (the ogre might have kidnapped her)
+(ASK MARY ABOUT OGRE) (see Fluffykins)
+ASK MARY ABOUT RATS (if you've got something to get rid of rats, she'll give you key to storeroom)
+SHOW TRAP TO MARY (she gives you the storeroom key)
+UNLOCK DOOR WITH KEY
+OPEN IT
+W
+DROP TRAP
+PUT CHEESE ON TRAP (you catch a rat)
+GET DEAD RAT
+E
+E
+N
+E
+OPEN CUPBOARD (you find a flask of poison)
+GET POISON
+PUT IT ON RAT
+W
+N
+(U) (you can't climb tree carrying all that stuff)
+DROP ALL
+U
+X NEST (you find matches)
+GET MATCHES (+2=25)
+D
+GET ALL
+S
+W
+OPEN DOOR
+W
+X MERCHANDISE (you find a bugle)
+GET BUGLE
+E
+E
+S
+S
+E
+GET CANDY
+W
+N
+GIVE CANDY TO CHILDREN (they take it and run away)
+GET COINS
+S
+W
+BUY LAMP (with coins)
+E
+E
+OPEN DRESSER (you find underwear and perfume)
+GET PERFUME
+MOVE RUG (you find a trapdoor)
+OPEN TRAPDOOR
+D (it's dark)
+LIGHT LAMP WITH MATCHES
+GET KEG
+U
+W
+S
+(KNOCK ON DOOR) (you need something louder)
+PLAY BUGLE (Fluffykins wakes and unlocks front door)
+OPEN DOOR
+W
+ASK FLUFFYKINS ABOUT OGRE (they rely on smell, he gives you a scentless vial)
+E
+N
+N
+N
+N
+N
+GET DOLL
+PUT PERFUME ON DOLL
+W
+W (a troll appears and stops you)
+GIVE RAT TO TROLL (troll is poisoned and pukes over edge of bridge)
+PUSH TROLL (he falls into chasm)
+W
+(W) (child ogre smells you and wakes, so you run out)
+PUT VIAL ON ME
+W
+N
+X ROCKS (you find a rusty key)
+GET RUSTY KEY
+N
+UNLOCK CAGE WITH RUSTY KEY
+OPEN IT
+PUT DOLL IN CAGE
+GET MOTHER GOOSE
+S
+(S) (Mother Goose stops you, "he'll smell me")
+PUT VIAL ON MOTHER GOOSE
+S
+E
+E (Mother Goose goes back to town, but warns you to stop ogre from following)
+PUT POWDER ON BRIDGE
+LIGHT IT WITH MATCHES (bridge blows up, ogre can't follow you across chasm)
+***THE END***

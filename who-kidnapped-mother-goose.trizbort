@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<trizbort version="1.5.9.3">
+	<info>
+		<title>Who Kidnapped Mother Goose</title>
+		<author>Garry Francis</author>
+	</info>
+	<map>
+		<room id="2" name="Cave" subtitle="" x="-520" y="-160" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Cave|Pile of rocks|(Rusty key)</objects>
+		</room>
+		<room id="6" name="Deep Forest" subtitle="" x="-160" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Path|Trees|Forest|Undergrowth|Child's doll</objects>
+		</room>
+		<room id="10" name="In Old Oak Tree" subtitle="" x="-40" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Old oak tree|Bird's nest|(Matches)</objects>
+		</room>
+		<room id="92" name="Who Kidnapped Mother Goose? (Garry Francis)" subtitle="" x="-520" y="-280" w="560" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="None" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="37" name="Ogre's Lair" subtitle="" x="-520" y="-240" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Ogre's lair|Bones|Cage|Mother Goose|Nightie|Ogre</objects>
+		</room>
+		<room id="61" name="Mouth of Cave" subtitle="" x="-520" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Mouth of cave|Child ogre</objects>
+		</room>
+		<room id="62" name="East Side of Chasm" subtitle="" x="-280" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Forest|Chasm|River|Mountainside|Mouth of cave|Bridge|(Troll)</objects>
+		</room>
+		<room id="65" name="Forest" subtitle="" x="-160" y="0" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Path|Forest|Trees|Old oak tree</objects>
+		</room>
+		<room id="66" name="Blacksmith's Storeroom" subtitle="" x="-400" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Storeroom|Back door|Junk|Trash box|Scrap metal|(Horn)</objects>
+		</room>
+		<room id="67" name="Blacksmith's Shop" subtitle="" x="-280" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Blacksmith's shop|Furnace|Tools|Back door|George the blacksmith|Anvil|Pail of water</objects>
+		</room>
+		<room id="69" name="Peter's House" subtitle="" x="-40" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">House|Back door|Bed|(Turnip)|Cupboard|(Bottle of poison)|Pumpkin shell|(Peter's wife)|Gardening tools</objects>
+		</room>
+		<room id="70" name="Tavern Storeroom" subtitle="" x="-400" y="160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Tavern|Storeroom door|Storeroom|Shelves|Supplies|Barrels of ale|Ale|(Mug of ale)|Sack of peanuts|Rat droppings|(Rat hole)|(Dead rat)</objects>
+		</room>
+		<room id="71" name="Tavern" subtitle="" x="-280" y="160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Tavern|Beer taps and empty tankards|Bar|Empty mug|Storeroom door|Simon the bartender|Mary the tavern wench|Bosom|Blouse|(Storeroom key)|Tables|Piano</objects>
+		</room>
+		<room id="72" name="Town Square" subtitle="" x="-160" y="160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Town|Town square|Street|Tavern|Your house|Fountain|Water|Coins|Children</objects>
+		</room>
+		<room id="73" name="Your House" subtitle="" x="-40" y="160" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" isDark="yes" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Your house|Sunlight|Furniture|Window|Meadow|Little Bo Peep|Bed|Piles of dirty clothes|(Rat trap)|Stove|Peg board|Warm coat|Cabinet|(Cheese)</objects>
+		</room>
+		<room id="77" name="General Store" subtitle="" x="-280" y="240" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">General store|Polly the storekeeper|Shelves|Books|Food|Toys|Hardware|Oil lamp</objects>
+		</room>
+		<room id="78" name="Cobblestone Street" subtitle="" x="-160" y="240" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Town|Town square|Street|Trees|Dirt road|Building|House</objects>
+		</room>
+		<room id="79" name="Mother Goose's" subtitle="" x="-40" y="240" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">House|Bed|Dresser|(Underwear)|(Vial of perfume)|Armoir|(Dresses)|Stove|Shelves|Food|Candy|Rug|(Trapdoor)</objects>
+		</room>
+		<line id="107" style="dashed">
+			<dock index="0" id="7" port="e" />
+			<dock index="1" id="62" port="w" />
+		</line>
+		<line id="108">
+			<dock index="0" id="62" port="e" />
+			<dock index="1" id="6" port="w" />
+		</line>
+		<line id="117" style="dashed">
+			<dock index="0" id="66" port="e" />
+			<dock index="1" id="67" port="w" />
+		</line>
+		<line id="123" style="dashed">
+			<dock index="0" id="37" port="s" />
+			<dock index="1" id="2" port="n" />
+		</line>
+		<line id="124" style="dashed">
+			<dock index="0" id="2" port="s" />
+			<dock index="1" id="61" port="n" />
+		</line>
+		<line id="133">
+			<dock index="0" id="6" port="s" />
+			<dock index="1" id="65" port="n" />
+		</line>
+		<line id="180">
+			<dock index="0" id="72" port="e" />
+			<dock index="1" id="73" port="w" />
+		</line>
+		<line id="190">
+			<dock index="0" id="72" port="s" />
+			<dock index="1" id="78" port="n" />
+		</line>
+		<line id="191" style="dashed">
+			<dock index="0" id="70" port="e" />
+			<dock index="1" id="71" port="w" />
+		</line>
+		<line id="192">
+			<dock index="0" id="71" port="e" />
+			<dock index="1" id="72" port="w" />
+		</line>
+		<room id="208" name="Inside Winkie's" subtitle="" x="-400" y="320" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">House|Front door|Fireplace|Stove|Table|Books|Candles|Bed|Bookcases|Knick-knacks|Armchair|Old Willy Winkie|(Flask of scentless potion)</objects>
+		</room>
+		<room id="209" name="Outside Winkie's" subtitle="" x="-160" y="320" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Trees|Dirt road|House|Fence|Yard|Long grass</objects>
+		</room>
+		<room id="220" name="Basement" subtitle="" x="-40" y="320" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Basement|Books|Toys|Keg of gunpowder</objects>
+		</room>
+		<line id="228">
+			<dock index="0" id="78" port="s" />
+			<dock index="1" id="209" port="n" />
+		</line>
+		<line id="257" style="dashed">
+			<dock index="0" id="208" port="e" />
+			<dock index="1" id="9" port="w" />
+		</line>
+		<room id="231" name="Copyright © Garry Francis 2024" subtitle="" x="-140" y="360" w="180" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="None" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="232" name="Legend" subtitle="" x="-40" y="-240" w="80" h="40" region="NoRegion" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="None" description="" roomFill="#FFFFFF" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="240" name="Start Room" subtitle="" x="-40" y="-200" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="Solid" isDark="yes" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="241" name="Normal Room" subtitle="" x="-40" y="-140" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<room id="286" name="Dark Room" subtitle="" x="-40" y="-80" w="80" h="40" region="Dark" handDrawn="no" allcornersequal="no" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="0" cornerTopRight="0" cornerBottomLeft="0" cornerBottomRight="0" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw" />
+		</room>
+		<line id="114" style="dashed" startText="U" endText="D">
+			<dock index="0" id="65" port="e" />
+			<dock index="1" id="10" port="w" />
+		</line>
+		<line id="118">
+			<dock index="0" id="69" port="w" />
+			<dock index="1" id="3" port="e" />
+		</line>
+		<line id="119">
+			<dock index="0" id="78" port="e" />
+			<dock index="1" id="79" port="w" />
+		</line>
+		<line id="137">
+			<dock index="0" id="78" port="w" />
+			<dock index="1" id="77" port="e" />
+		</line>
+		<line id="76">
+			<dock index="0" id="67" port="e" />
+			<dock index="1" id="3" port="w" />
+		</line>
+		<line id="1" style="dashed" startText="D" endText="U">
+			<dock index="0" id="79" port="s" />
+			<dock index="1" id="220" port="n" />
+		</line>
+		<room id="3" name="Cobblestone Street" subtitle="" x="-160" y="80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Town|Town square|Street|Path|Forest|Trees|Building|House</objects>
+		</room>
+		<line id="5">
+			<dock index="0" id="3" port="s" />
+			<dock index="1" id="72" port="n" />
+		</line>
+		<line id="4">
+			<dock index="0" id="65" port="s" />
+			<dock index="1" id="3" port="n" />
+		</line>
+		<room id="7" name="West Side of Chasm" subtitle="" x="-400" y="-80" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Chasm|River|Bridge|Mountainside|Mouth of cave</objects>
+		</room>
+		<line id="8" style="dashed">
+			<dock index="0" id="61" port="e" />
+			<dock index="1" id="7" port="w" />
+		</line>
+		<room id="9" name="Front of Winkie's" subtitle="" x="-280" y="320" w="80" h="40" region="Normal" handDrawn="no" allcornersequal="yes" ellipse="no" roundedCorners="no" octagonal="no" cornerTopLeft="1" cornerTopRight="1" cornerBottomLeft="1" cornerBottomRight="1" borderstyle="Solid" description="" roomFill="" secondFill="" secondFillLocation="Bottom" roomBorder="" roomLargeText="" roomSmallText="">
+			<objects at="wsw">Willy Winkie's house|House|Fence|Yard|Front porch|Front door|Welcome mat|Rocking chair</objects>
+		</room>
+		<line id="11">
+			<dock index="0" id="9" port="e" />
+			<dock index="1" id="209" port="w" />
+		</line>
+	</map>
+	<settings>
+		<colors>
+			<canvas>White</canvas>
+			<fill>#FFFF99</fill>
+			<border>Black</border>
+			<line>Black</line>
+			<selectedLine>Gold</selectedLine>
+			<hoverLine>DarkOrange</hoverLine>
+			<largeText>Black</largeText>
+			<smallText>Black</smallText>
+			<lineText>Black</lineText>
+			<grid>#F5F5F5</grid>
+		</colors>
+		<regions>
+			<Dark Name="Dark" TextColor="Black">Silver</Dark>
+			<Dead Name="Dead" TextColor="White">Red</Dead>
+			<NoRegion Name="NoRegion" TextColor="Black">White</NoRegion>
+			<Normal Name="Normal" TextColor="Black">#FFFF80</Normal>
+			<Underwater Name="Underwater" TextColor="Black">#80FFFF</Underwater>
+		</regions>
+		<fonts>
+			<room size="12">Arial</room>
+			<object size="12">Arial Narrow</object>
+			<line size="12">Arial Narrow</line>
+		</fonts>
+		<grid>
+			<snapTo>yes</snapTo>
+			<visible>yes</visible>
+			<showOrigin>yes</showOrigin>
+			<size>20</size>
+		</grid>
+		<lines>
+			<width>1</width>
+			<handDrawn>no</handDrawn>
+			<arrowSize>8</arrowSize>
+			<textOffset>4</textOffset>
+		</lines>
+		<rooms>
+			<darknessStripeSize>10</darknessStripeSize>
+			<objectListOffset>4</objectListOffset>
+			<connectionStalkLength>20</connectionStalkLength>
+			<preferredDistanceBetweenRooms>40</preferredDistanceBetweenRooms>
+			<defaultRoomName>Cave</defaultRoomName>
+		</rooms>
+		<ui>
+			<handleSize>8</handleSize>
+			<snapToElementSize>8</snapToElementSize>
+		</ui>
+		<keypadNavigation>
+			<creationModifier>control</creationModifier>
+			<unexploredModifier>alt</unexploredModifier>
+		</keypadNavigation>
+	</settings>
+</trizbort>
